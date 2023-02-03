@@ -30,7 +30,7 @@ List Of Checks that NCA Cheaker will conduct:
 You have Two Option:
 <ul>
 <li>Download: You Can Download The ready made EXE file from this Github Link ()</li>
-<li>Build The APP From The Soruce Code: Please Check building the APP File To Get More Info..</li>
+<li>Build The APP From The Soruce Code: Please Check <a href='https://github.com/malduhaymi/NCA-checker/blob/main/building%20the%20APP'>building the APP File</a> To Get More Info..</li>
 </ul>
 
 
