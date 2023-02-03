@@ -21,11 +21,11 @@ List Of Checks that NCA Checker will conduct:
 <li>During the Compliance Testing</li>
 <li>During the security Testing Process</li>
 <li>During Third Party Risk Assessment; in case your servers are hosted in cloud provider </li>
-<li>During the secure configuration and hardening proccess; NCA Checker Can Be Your Standard/Benchmark To Secure & Harden Your Servers/Workstation; No need to use the CIS benchmarks :p </li>
+<li>During the secure configuration and hardening process; NCA Checker Can Be Your Standard To Secure & Harden Your Servers/Workstation; No need to use the CIS benchmarks :p </li>
 </ul>
 
 <h4>Getting Started</h4>
-You have Two Option:
+You have Two Options:
 <ul>
 <li>Download: You Can Download The ready made EXE file from this <a href='https://github.com/malduhaymi/NCA-checker/blob/main/NCACheckerSetup.zip'>Github Link</a></li>
 <li>Build The APP From The Soruce Code: Please Check <a href='https://github.com/malduhaymi/NCA-checker/blob/main/building%20the%20APP'>building the APP File</a> To Get More Info..</li>
