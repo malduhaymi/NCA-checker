@@ -28,9 +28,9 @@ List Of Checks that NCA Cheaker will conduct:
 
 <h4>Getting Started</h4>
 You have Two Option:
-<br/>
-<b>Download: You Can Download The ready made EXE file from this Github Link ()</b>
-<br/>
-<b>Build The APP From The Soruce Code: Please Check building the APP File To Get More Info..</b>
+<ul>
+<li>Download: You Can Download The ready made EXE file from this Github Link ()</li>
+<li>Build The APP From The Soruce Code: Please Check building the APP File To Get More Info..</li>
+</ul>
 
 
