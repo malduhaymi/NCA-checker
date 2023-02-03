@@ -1,5 +1,5 @@
 <h5>Hello There!</h5>
-<h5>Do you Want To make your Life in cybersecurity easier, Use NCA Checker !</h5>
+<h5>Do you Want To make your Life in the cybersecurity much easier? Use NCA Checker!</h5>
 
 <h4>NCA Checker will do 7 checks to make sure the server/workstation is compliant with NCA regulation (ECC). </h4>
 
