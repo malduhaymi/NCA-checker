@@ -3,7 +3,7 @@
 
 <h4>NCA Checker will do 7 checks to make sure the server/workstation is compliant with NCA regulation (ECC). </h4>
 
-List Of Checks that NCA Cheaker will conduct:
+List Of Checks that NCA Checker will conduct:
 <ul>
 <li>Three Tier Architecture Scan</li>
 <li>Removable Device Scan</li>
@@ -14,7 +14,7 @@ List Of Checks that NCA Cheaker will conduct:
 <li>Display List Of Installed applications</li>
 </ul>
 
-<b>When I can use NCA Cheacker:</b>
+<b>When I can use NCA Checker:</b>
 <ul>
 <li>Before publishing a website/service/system to the internet</li>
 <li>Before the critcal changes in IT systems</li>
@@ -22,7 +22,7 @@ List Of Checks that NCA Cheaker will conduct:
 <li>During the Compliance Testing</li>
 <li>During the security Testing Process</li>
 <li>During Third Party Risk Assessment; in case your servers are hosted in cloud provider </li>
-<li>During the secure configuration and hardening proccess; NCA Cheacker Can be your standard/benchmark to secure and harden your servers/workstation; No need to use the CIS benchmarks :p </li>
+<li>During the secure configuration and hardening proccess; NCA Checker Can Be Your Standard/Benchmark To Secure & Harden Your Servers/Workstation; No need to use the CIS benchmarks :p </li>
 </ul>
 
 <h4>Getting Started</h4>
