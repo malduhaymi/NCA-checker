@@ -26,3 +26,10 @@ List Of Checks that NCA Cheaker will conduct:
 <li>During the secure configuration and hardening proccess; NCA Cheacker Can be your standard to seucre and harden your servers/workstation</li>
 </ul>
 
+<h4>Getting Started</h4>
+You have Two Option:
+<b>Download: You Can Download The ready made EXE file from this Github Link ()</b>
+<br/>
+<b>Build The APP From The Soruce Code: Check This Link for more info [a relative link](building%20the%20APP)) </b>
+
+
