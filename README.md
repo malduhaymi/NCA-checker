@@ -1,5 +1,4 @@
 <h5>Hello There!</h5>
-<h5>Do you Want To make your Life in the cybersecurity much easier? Use NCA Checker!</h5>
 
 <h4>NCA Checker will do 7 checks to make sure the server/workstation is compliant with NCA regulation (ECC). </h4>
 
@@ -28,7 +27,7 @@ List Of Checks that NCA Checker will conduct:
 <h4>Getting Started</h4>
 You have Two Option:
 <ul>
-<li>Download: You Can Download The ready made EXE file from this <a href='https://github.com/malduhaymi/NCA-checker/blob/main/NCAChecker-1.0.0%20Setup.zip'>Github Link</a></li>
+<li>Download: You Can Download The ready made EXE file from this <a href='https://github.com/malduhaymi/NCA-checker/blob/main/NCACheckerSetup.zip'>Github Link</a></li>
 <li>Build The APP From The Soruce Code: Please Check <a href='https://github.com/malduhaymi/NCA-checker/blob/main/building%20the%20APP'>building the APP File</a> To Get More Info..</li>
 </ul>
 
