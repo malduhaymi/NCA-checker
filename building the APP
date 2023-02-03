@@ -12,3 +12,6 @@ You can build the EXE file from the soruce code as below:
 9- cd to c:/nca/nca, then run (npm install regedit) to import regedit lib.
 10- cd to c:/nca/nca , then run (npm start) to start the APP.
 
+
+
+Note: This App Built by Using Electron Forge (https://www.electronforge.io/).
