@@ -16,7 +16,7 @@ List Of Checks that NCA Cheaker will conduct:
 
 <b>When I can use NCA Cheacker:</b>
 <ul>
-<li>Before publishing  a website/serivce/system to the internet</li>
+<li>Before publishing a website/service/system to the internet</li>
 <li>Before critcal changes in IT systems (ECC 1-5-3-2)</li>
 <li>Input for the Risk Assessment Process</li>
 <li>During the Compliance Testing</li>
