@@ -36,7 +36,7 @@ You have Two Option:
 <h4>Notes</h4>
 NCA Checker Buit by Using Electron Forge (https://www.electronforge.io/).
 <br/>
-To Get The Best Result From NCA Checker , Please Run it As Administrator.
+To Get The Best Result From NCA Checker(exe file) , Please Run it As Administrator.
 
 
 <h4>Demo Video</h4>
