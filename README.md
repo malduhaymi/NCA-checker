@@ -27,7 +27,7 @@ List Of Checks that NCA Checker will conduct:
 <h4>Getting Started</h4>
 You have Two Options:
 <ul>
-<li>Download: You Can Download The ready made EXE file from this <a href='https://github.com/malduhaymi/NCA-checker/blob/main/NCACheckerSetup.zip'>Github Link</a></li>
+<li>Download: You Can Download The ready made EXE file from this <a href='https://github.com/malduhaymi/NCA-checker/blob/main/NCA_Checker_V1.zip'>Github Link</a></li>
 <li>Build The APP From The Soruce Code: Please Check <a href='https://github.com/malduhaymi/NCA-checker/blob/main/building%20the%20APP'>building the APP File</a> To Get More Info..</li>
 </ul>
 
